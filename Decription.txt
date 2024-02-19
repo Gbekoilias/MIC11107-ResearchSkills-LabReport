@@ -1,0 +1,11 @@
+In the Research Skills module (MIC11107), the Component 2 assessment constitutes 60% of the overall grade. Students are tasked with creating a laboratory report based on data acquired during practical sessions. The assessment involves:
+
+Summary (15 marks): A concise 250-word summary, avoiding technical language, covering background, aims, methods, key findings, and conclusions.
+
+Raw Data Presentation (10 marks): Report own MIC and MBC assay data, plus two additional datasets from classmates. A clear table should include MIC and MBC values, mean E. coli CFU/ml counts, observations about control wells, and validity indications.
+
+Results Analysis (25 marks): Analyze and present results in tables or figures, reporting MIC50, MIC100, MBC50, MBC100, MIC and MBC ranges, and assay sensitivity. Include a detailed legend.
+
+Scientific Discussion (50 marks): Write a 400-word discussion on key results, interpretations, limitations, implications, and future considerations. Use APA7th format for references.
+
+The assessment emphasizes clarity, correctness, and depth of scientific understanding, with specific criteria for grading, ranging from Fail to Distinction.
